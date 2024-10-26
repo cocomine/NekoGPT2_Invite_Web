@@ -50,7 +50,7 @@ body {
         height: 100%;
         z-index: -1;
     }
-    &.revers{
+    .revers{
         &:before{
             content: ' ';
             background-color: rgba(33, 35, 38, 0.5);
